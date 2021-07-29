@@ -4,7 +4,7 @@
 ---  
 Welcome to PowerPoint  
 # 5 tips for a simpler way to work #  
-![Image](.\Images\Slide_1_Image_1.png)  
+![Image](./Images/Slide_1_Image_1.png)  
 
 ---  
 # 2 #
