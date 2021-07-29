@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="0.4583333in" height="0.4583333in" class="slides-canvas" viewBox="0 0 33 33">
+  <g text-rendering="geometricPrecision" transform="scale(1, 1)">
+    <g transform="matrix(1, 0, 0, 1, -48, -221)">
+      <path fill="#D24726" d="M47.5 236.94C47.5 228.03 54.72 220.81 63.63 220.81L63.63 220.81C72.54 220.81 79.77 228.03 79.77 236.94 79.77 236.94 79.77 236.94 79.77 236.94L79.77 236.94C79.77 245.85 72.54 253.08 63.63 253.08L63.63 253.08C54.72 253.08 47.5 245.85 47.5 236.94z" />
+    </g>
+  </g>
+</svg>.88 266.93 608.43 315.48 608.43 375.36 608.43 435.24 559.88 483.78 500 483.78 480.42 483.78 461.2 478.48 444.39 468.44L444.39 468.44 500 375.36" />
+      <path stroke-linecap="round" stroke-width="1.5" stroke="#FFFFFF" fill="none" d="M500 375.36L500 266.93 500 266.93C559.88 266.93 608.43 315.48 608.43 375.36 608.43 435.24 559.88 483.78 500 483.78 480.42 483.78 461.2 478.48 444.39 468.44L444.39 468.44 500 375.36" />
+      <path fill="#C0504D" d="M500 375.36L444.39 468.44 444.39 468.44C397.81 440.61 378.97 382.64 400.3 332.74L400.3 332.74 500 375.36" />
+      <path stroke-linecap="round" stroke-width="1.5" stroke="#FFFFFF" fill="none" d="M500 375.36L444.39 468.44 444.39 468.44C397.81 440.61 378.97 382.64 400.3 332.74L400.3 332.74 500 375.36" />
+      <path fill="#9BBB59" d="M500 375.36L400.3 332.74 400.3 332.74C409.3 311.69 424.73 294.02 444.39 282.28L444.39 282.28 500 375.36" />
+      <path stroke-linecap="round" stroke-width="1.5" stroke="#FFFFFF" fill="none" d="M500 375.36L400.3 332.74 400.3 332.74C409.3 311.69 424.73 294.02 444.39 282.28L444.39 282.28 500 375.36" />
+      <path fill="#8064A2" d="M500 375.36L444.39 282.28 444.39 282.28C461.2 272.24 480.42 266.93 500 266.93L500 266.93 500 375.36" />
+      <path stroke-linecap="round" stroke-width="1.5" stroke="#FFFFFF" fill="none" d="M500 375.36L444.39 282.28 444.39 282.28C461.2 272.24 480.42 266.93 500 266.93L500 266.93 500 375.36" />
+      <path stroke-width="0.75" stroke="none" fill="none" d="M483.99 208.15L516.01 208.15 516.01 254.93 483.99 254.93z" />
+      <defs>
+        <clipPath id="ClipRect_1b2984a1-64e8-4795-935c-5750111b033d">
+          <rect x="260" y="202" width="480" height="320" />
+        </clipPath>
+      </defs>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 226.875, 5.86843872)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.965pt" fill="#595959" x="0.4949989" y="17.79216"><tspan x="0.4949989" y="17.79216">Sell</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, -260, -203)">
+      <path clip-path="url(#ClipRect_1b2984a1-64e8-4795-935c-5750111b033d)" stroke-width="0.75" stroke="none" fill="none" d="M423.64 495.78L576.36 495.78 576.36 516.15 423.64 516.15z" />
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 183.387512, 295.784424)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="8.9775pt" fill="#595959" x="0" y="11.20392"><tspan x="0" y="11.20392">R. 1</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, -260, -203)">
+      <path clip-path="url(#ClipRect_1b2984a1-64e8-4795-935c-5750111b033d)" fill="#4F81BD" d="M433.79 502.37L440.99 502.37 440.99 509.57 433.79 509.57z" />
+      <path clip-path="url(#ClipRect_1b2984a1-64e8-4795-935c-5750111b033d)" stroke-linecap="round" stroke-width="1.5" stroke="#FFFFFF" fill="none" d="M433.79 502.37L440.99 502.37 440.99 509.57 433.79 509.57z" />
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 221.566559, 295.784424)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="8.9775pt" fill="#595959" x="0" y="11.20392"><tspan x="0" y="11.20392">R. 2</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, -260, -203)">
+      <path clip-path="url(#ClipRect_1b2984a1-64e8-4795-935c-5750111b033d)" fill="#C0504D" d="M471.97 502.37L479.17 502.37 479.17 509.57 471.97 509.57z" />
+      <path clip-path="url(#ClipRect_1b2984a1-64e8-4795-935c-5750111b033d)" stroke-linecap="round" stroke-width="1.5" stroke="#FFFFFF" fill="none" d="M471.97 502.37L479.17 502.37 479.17 509.57 471.97 509.57z" />
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 259.7456, 295.784424)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="8.9775pt" fill="#595959" x="0" y="11.20392"><tspan x="0" y="11.20392">R. 3</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, -260, -203)">
+      <path clip-path="url(#ClipRect_1b2984a1-64e8-4795-935c-5750111b033d)" fill="#9BBB59" d="M510.15 502.37L517.35 502.37 517.35 509.57 510.15 509.57z" />
+      <path clip-path="url(#ClipRect_1b2984a1-64e8-4795-935c-5750111b033d)" stroke-linecap="round" stroke-width="1.5" stroke="#FFFFFF" fill="none" d="M510.15 502.37L517.35 502.37 517.35 509.57 510.15 509.57z" />
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 297.924683, 295.784424)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="8.9775pt" fill="#595959" x="0" y="11.20392"><tspan x="0" y="11.20392">R. 4</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, -260, -203)">
+      <path clip-path="url(#ClipRect_1b2984a1-64e8-4795-935c-5750111b033d)" fill="#8064A2" d="M548.32 502.37L555.52 502.37 555.52 509.57 548.32 509.57z" />
+      <path clip-path="url(#ClipRect_1b2984a1-64e8-4795-935c-5750111b033d)" stroke-linecap="round" stroke-width="1.5" stroke="#FFFFFF" fill="none" d="M548.32 502.37L555.52 502.37 555.52 509.57 548.32 509.57z" />
+      <path stroke-width="0.75" stroke="none" fill="#000000" fill-opacity="0" d="M260 202.15L740 202.15 740 522.15 260 522.15z" />
+    </g>
+  </g>
+</svg>

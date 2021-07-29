@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="0.4583333in" height="0.4583333in" class="slides-canvas" viewBox="0 0 33 33">
+  <g text-rendering="geometricPrecision" transform="scale(1, 1)">
+    <g transform="matrix(1, 0, 0, 1, -340, -412)">
+      <path fill="#D24726" d="M340.22 428.21C340.22 419.3 347.44 412.08 356.35 412.08L356.35 412.08C365.26 412.08 372.49 419.3 372.49 428.21 372.49 428.21 372.49 428.21 372.49 428.21L372.49 428.21C372.49 437.12 365.26 444.35 356.35 444.35 347.44 444.35 340.22 437.12 340.22 428.21z" />
+    </g>
+  </g>
+</svg>
