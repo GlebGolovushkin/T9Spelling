@@ -6,31 +6,4 @@
       <path fill="#D24726" d="M47.5 347.5C47.5 338.59 54.72 331.36 63.63 331.36L63.63 331.36C72.54 331.36 79.77 338.59 79.77 347.5 79.77 347.5 79.77 347.5 79.77 347.5L79.77 347.5C79.77 356.41 72.54 363.63 63.63 363.63L63.63 363.63C54.72 363.63 47.5 356.41 47.5 347.5z" />
     </g>
   </g>
-</svg> transform="matrix(1, 0, 0, 1, 131.601746, 16.5870361)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="18.75pt" fill="#FFFFFF" x="5.278263" y="21.67342"><tspan x="5.278263" y="21.67342">1</tspan></text></g>
-    <g transform="matrix(1, 0, 0, 1, 175.910522, 15.203064)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="8.325001pt" fill="#000000" x="0" y="10.76788"><tspan x="0" y="10.76788">RightUp</tspan></text></g>
-    <g transform="matrix(0, 1, -1, -0, 391.3158, -490.254883)">
-      <path fill="#4F81BD" d="M489.41 308.03L503.27 280.3 539.3 280.3 553.16 308.03 539.3 335.77 503.27 335.77z" />
-      <path stroke-width="2" stroke="#FFFFFF" fill="none" d="M489.41 308.03L503.27 280.3 539.3 280.3 553.16 308.03 539.3 335.77 503.27 335.77z" />
-    </g>
-    <g transform="matrix(0, 1, -1, -0, 475.272583, -465.975739)">
-      <path fill="#4F81BD" d="M519.25 362.15L533.11 334.41 569.14 334.41 583 362.15 569.14 389.88 533.11 389.88z" />
-      <path stroke-width="2" stroke="#FFFFFF" fill="none" d="M519.25 362.15L533.11 334.41 569.14 334.41 583 362.15 569.14 389.88 533.11 389.88z" />
-    </g>
-    <g transform="matrix(1, 0, 0, 1, 101.533386, 70.70499)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="18.75pt" fill="#FFFFFF" x="5.278263" y="21.67342"><tspan x="5.278263" y="21.67342">2</tspan></text></g>
-    <g transform="matrix(1, 0, 0, 1, 17.5352478, 69.32095)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="8.325001pt" fill="#000000" x="45.00874" y="10.76788"><tspan x="45.00874" y="10.76788">Left</tspan></text></g>
-    <g transform="matrix(0, 1, -1, -0, 535.1798, -525.883)">
-      <path fill="#4F81BD" d="M579.15 362.15L593.02 334.41 629.04 334.41 642.91 362.15 629.04 389.88 593.02 389.88z" />
-      <path stroke-width="2" stroke="#FFFFFF" fill="none" d="M579.15 362.15L593.02 334.41 629.04 334.41 642.91 362.15 629.04 389.88 593.02 389.88z" />
-    </g>
-    <g transform="matrix(0, 1, -1, -0, 559.45874, -441.926239)">
-      <path fill="#4F81BD" d="M549.31 416.27L563.18 388.53 599.2 388.53 613.07 416.27 599.2 444 563.18 444z" />
-      <path stroke-width="2" stroke="#FFFFFF" fill="none" d="M549.31 416.27L563.18 388.53 599.2 388.53 613.07 416.27 599.2 444 563.18 444z" />
-    </g>
-    <g transform="matrix(1, 0, 0, 1, 131.601746, 124.822845)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="18.75pt" fill="#FFFFFF" x="5.278263" y="21.67342"><tspan x="5.278263" y="21.67342">3</tspan></text></g>
-    <g transform="matrix(1, 0, 0, 1, 175.910522, 123.438812)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="8.325001pt" fill="#000000" x="0" y="10.76788"><tspan x="0" y="10.76788">RightDown</tspan></text></g>
-    <g transform="matrix(0, 1, -1, -0, 499.551636, -382.019073)">
-      <path fill="#4F81BD" d="M489.41 416.27L503.27 388.53 539.3 388.53 553.16 416.27 539.3 444 503.27 444z" />
-      <path stroke-width="2" stroke="#FFFFFF" fill="none" d="M489.41 416.27L503.27 388.53 539.3 388.53 553.16 416.27 539.3 444 503.27 444z" />
-    </g>
-  </g>
 </svg>
