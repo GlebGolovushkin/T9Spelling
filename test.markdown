@@ -1,4 +1,5 @@
-
+---  
+# 1 #
 ---  
 
 # Welcome to PowerPoint #  
@@ -6,17 +7,22 @@
 ## 5 tips for a simpler way to work ##  
 
 ---  
+# 2 #
+---  
 
 # Designer helps you get your point across #  
 
+
 PowerPoint Designer suggests professional designs for your presentation\, based on the content in your slides\.   
 Designer is a subscription\-only feature\. If you have an Office 365 subscription\, the next slide shows you how it works in a new presentation\.  
-
+---  
+# 3 #
 ---  
 
 # How to use PowerPoint Designer #  
 
 How it works\:  
+
 
 1  
 
@@ -28,6 +34,7 @@ On the very first slide\, add a picture\: Go to Insert \> Pictures or Insert \> 
 
 Hint\: You need to be online when you add the picture\.  
 
+
 3  
 
 When PowerPoint asks your permission to get design ideas\, select Let\'s Go\.  
@@ -35,7 +42,8 @@ When PowerPoint asks your permission to get design ideas\, select Let\'s Go\.
 4  
 
 Choose a design you like from the Design Ideas task pane\.  
-
+---  
+# 4 #
 ---  
 
 # Morph #  
@@ -45,25 +53,34 @@ Morph makes smooth animations and object movements in your presentation\. You us
 Morph is a subscription\-only feature\. If you have an Office 365 subscription\, you can try it yourself with the steps on the next slide\.  
 
 ---  
+# 5 #
+---  
 
 # Setting up Morph #  
 
+
 Try it yourself with these two simple “planets”\:  
+
 
 1  
 
+
 Duplicate this slide\: Right\-click the slide thumbnail and select Duplicate Slide\.  
+
 
 2  
 
 In the second of these two identical slides\, change the shapes on the right in some way \(move\, resize\, change color\)\, then go to Transitions \> Morph\.  
 
+
 3  
+
 
 Return to the first of the two slides and press Slide Show button and then select Play to see your circle morph\!  
 
 Hint\: Effect Options gives you even more options for Morph\.  
-
+---  
+# 6 #
 ---  
 
 # Working together in real time #  
@@ -71,6 +88,9 @@ Hint\: Effect Options gives you even more options for Morph\.
 When you share your presentation with others\, you’ll see them working with you at the same time\. 
 
 How it works\:  
+
+
+
 
 1  
 
@@ -83,7 +103,8 @@ Select Share from above the ribbon\, or by using short\-key Alt\-ZS\, to invite 
 When other people are in the presentation\, a marker shows who is on which slide…  
 
 …and the part of the slide they\'re editing\.  
-
+---  
+# 7 #
 ---  
 
 # You’re an expert with Tell Me #  
@@ -93,7 +114,9 @@ so you can save time and focus on your work\.
 
 Try it\:  
 
+
 **SELECT ME**  
+
 
 1  
 
@@ -103,11 +126,14 @@ Select the Robot picture on the right\.
 
 Type *animation* in the Tell Me box\, and then choose Add Animation\.  
 
+
+
 3  
 
 Choose an animation effect\, like Zoom\, and watch 
 what happens\.  
-
+---  
+# 8 #
 ---  
 
 # Explore without leaving your slides #  
@@ -115,6 +141,7 @@ what happens\.
 Smart Lookup brings research directly in to PowerPoint\.
 
 Try it\:  
+
 
 1  
 
@@ -127,10 +154,12 @@ Right\-click in the word *office* in the following phrase\: office furniture
 Choose Smart Lookup\, and notice that results are contextual for that phrase\, not Microsoft Office apps\.  
 
 Just for fun\, try Smart Lookup again by right\-clicking in the word *Office* in Step 2\.  
-
+---  
+# 9 #
 ---  
 
 # More questions about PowerPoint\? #  
+
 
 Select the Tell Me button and type what you want to know\.
   
@@ -138,5 +167,8 @@ Select the Tell Me button and type what you want to know\.
 [Go to free PowerPoint training](http://go.microsoft.com/fwlink/?LinkId=623327)  
 [Give feedback about this tour](https://go.microsoft.com/fwlink/?linkid=854609)  
 
-SELECT THE ARROW WHEN IN SLIDE SHOW MODE  
 
+
+
+
+SELECT THE ARROW WHEN IN SLIDE SHOW MODE  
